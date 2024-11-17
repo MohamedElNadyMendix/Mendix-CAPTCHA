@@ -93,10 +93,9 @@ Support
 
 If you have any questions, feedback, or require assistance, feel free to reach out:
 
-    LinkedIn: Mohamed El Nady
+    LinkedIn:(https://www.linkedin.com/in/mohamedelnady27/)
     Email: mohamed.k.elnady@gmail.com
-    GitHub: Mohamed El Nady
-
+  
 
 
 Enjoy and Happy Developing!
